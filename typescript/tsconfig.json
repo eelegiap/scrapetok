@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "ES2022",
+      "module": "NodeNext",
+      "moduleResolution": "nodenext",  // Enables Node.js-style module resolution
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "types": ["@crawlee/playwright"],  // Ensures Crawlee types are loaded
+    }
+  }
+  

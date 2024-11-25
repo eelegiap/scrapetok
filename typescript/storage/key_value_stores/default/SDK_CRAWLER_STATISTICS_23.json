@@ -1,0 +1,29 @@
+{
+  "requestsFinished": 35,
+  "requestsFailed": 0,
+  "requestsRetries": 0,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 50,
+  "requestMinDurationMillis": 2656,
+  "requestMaxDurationMillis": 7740,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 132027,
+  "crawlerStartedAt": "2024-11-12T13:38:19.536Z",
+  "crawlerFinishedAt": "2024-11-12T13:39:01.350Z",
+  "statsPersistedAt": "2024-11-12T13:39:01.350Z",
+  "crawlerRuntimeMillis": 42115,
+  "crawlerLastStartTimestamp": 1731418699235,
+  "requestRetryHistogram": [
+    35
+  ],
+  "statsId": 23,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 3772,
+  "requestTotalDurationMillis": 132027,
+  "requestsTotal": 35,
+  "requestsWithStatusCode": {
+    "200": 35
+  },
+  "errors": {},
+  "retryErrors": {}
+}

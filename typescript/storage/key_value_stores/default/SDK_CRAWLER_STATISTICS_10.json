@@ -1,0 +1,52 @@
+{
+  "requestsFinished": 0,
+  "requestsFailed": 1,
+  "requestsRetries": 1,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 0,
+  "requestMinDurationMillis": null,
+  "requestMaxDurationMillis": 0,
+  "requestTotalFailedDurationMillis": 29322,
+  "requestTotalFinishedDurationMillis": 0,
+  "crawlerStartedAt": "2024-11-12T13:24:16.768Z",
+  "crawlerFinishedAt": "2024-11-12T13:26:17.695Z",
+  "statsPersistedAt": "2024-11-12T13:26:17.695Z",
+  "crawlerRuntimeMillis": 121156,
+  "crawlerLastStartTimestamp": 1731417856539,
+  "requestRetryHistogram": [
+    null,
+    null,
+    null,
+    1
+  ],
+  "statsId": 10,
+  "requestAvgFailedDurationMillis": 29322,
+  "requestAvgFinishedDurationMillis": null,
+  "requestTotalDurationMillis": 29322,
+  "requestsTotal": 1,
+  "requestsWithStatusCode": {
+    "200": 4
+  },
+  "errors": {
+    "/Users/paigelee/Desktop/scrapetok/typescript/scraper.ts:147:19": {
+      "missing error code": {
+        "Error": {
+          "Collection interrupted, no new elts found: Restarting scraper...": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "/Users/paigelee/Desktop/scrapetok/typescript/scraper.ts:147:19": {
+      "missing error code": {
+        "Error": {
+          "Collection interrupted, no new elts found: Restarting scraper...": {
+            "count": 3
+          }
+        }
+      }
+    }
+  }
+}
