@@ -1,7 +1,7 @@
 import { PlaywrightCrawler, Request } from "@crawlee/playwright";
 import { Page } from "playwright";
 import { writeFileSync, existsSync, readFileSync } from "fs";
-
+const MIN_COLLECTION_SIZE = 30;
 // const urlsToProcess = [
 //   "https://www.tiktok.com/tag/afd",
 //   "https://www.tiktok.com/tag/afdsong",
@@ -26,18 +26,18 @@ import { writeFileSync, existsSync, readFileSync } from "fs";
 //   "https://www.tiktok.com/tag/DeutschlandZuerst",
 //   "https://www.tiktok.com/tag/EuroAlternativen",
 //   "https://www.tiktok.com/tag/Euroskepsis",
-// Add more URLs if needed
+//   "https://www.tiktok.com/tag/afrfraktion",
 // ];
 
-const fileContent = readFileSync("../afd_accts_11-12-0.txt", "utf-8");
+const fileContent = readFileSync("../afd_accts_12-5_0.txt", "utf-8");
 const urlsToProcess = fileContent
   .split("\n")
   .map((line) => line.trim())
   .filter((line) => line !== "")
   .map((line) => `https://www.tiktok.com/@${line}`);
 
-const isHeadless = false;
-const maxScrolls = 30;
+const isHeadless = true;
+const maxScrolls = 50;
 
 function randBtwn(min: number, max: number): number {
   return Math.random() * (max - min) + min;
@@ -95,12 +95,15 @@ async function urlCollectorCrawler(url: string): Promise<string[]> {
       },
     },
     requestHandlerTimeoutSecs: 300,
-    maxConcurrency: 1,
+    maxConcurrency: 3,
     async requestHandler({ page, request }: { page: Page; request: Request }) {
       console.log(`Crawling ${request.url} for URLs...`);
 
       await page.waitForTimeout(randBtwn(3000, 5000));
-
+      if (page.url().includes("https://www.tiktok.com/foryou")) {
+        console.log(`ENDING SCRAPER DUE TO BAD REDIRECT ON ${url}`);
+        return;
+      }
       // Example pop-up and cookie acceptance handling
       try {
         const closeButton = await page.$('button[aria-label="Close"]');
@@ -143,7 +146,8 @@ async function urlCollectorCrawler(url: string): Promise<string[]> {
         }
         startCt = collectedUrls.size;
         if (breakCollection) {
-          if (collectedUrls.size < 30) {
+          if (false) {
+            // if (collectedUrls.size < MIN_COLLECTION_SIZE && url.includes("@")) {
             throw new Error(
               "Collection interrupted, no new elts found: Restarting scraper..."
             );
@@ -241,8 +245,9 @@ async function processUrlsSequentially(urls: string[]) {
 
     // Step 1: Collect URLs from the first crawler
     const collectedUrls = await urlCollectorCrawler(url);
-
     const filteredUrls = await filterCollectedUrls(collectedUrls, url);
+    console.log(`Collected URLs: ${collectedUrls.length}`);
+    console.log(`Filter URLs: ${filteredUrls.length}`);
 
     // Step 2: Visit each collected URL with the second crawler
     await visitCollectedUrlsCrawler(filteredUrls, url);
@@ -250,5 +255,5 @@ async function processUrlsSequentially(urls: string[]) {
 }
 
 (async () => {
-  await processUrlsSequentially(urlsToProcess);
+  await processUrlsSequentially(urlsToProcess.reverse().slice(20));
 })();

@@ -1,9 +1,0 @@
-{
-	"id": "uoQMeW7m5dtC9RC",
-	"json": "{\"id\":\"uoQMeW7m5dtC9RC\",\"url\":\"https://www.tiktok.com/@sei.schlau.waehl.afd\",\"loadedUrl\":\"https://www.tiktok.com/@sei.schlau.waehl.afd\",\"uniqueKey\":\"https://www.tiktok.com/@sei.schlau.waehl.afd\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":3,\"errorMessages\":[\"Error: Collection interrupted, no new elts found: Restarting scraper...\\n    at PlaywrightCrawler.requestHandler [as userProvidedRequestHandler] (/Users/paigelee/Desktop/scrapetok/typescript/scraper.ts:147:19)\\n    at async wrap (/Users/paigelee/Desktop/scrapetok/typescript/node_modules/@apify/src/index.ts:77:27)\",\"Error: Collection interrupted, no new elts found: Restarting scraper...\\n    at PlaywrightCrawler.requestHandler [as userProvidedRequestHandler] (/Users/paigelee/Desktop/scrapetok/typescript/scraper.ts:147:19)\\n    at async wrap (/Users/paigelee/Desktop/scrapetok/typescript/node_modules/@apify/src/index.ts:77:27)\",\"Error: Collection interrupted, no new elts found: Restarting scraper...\\n    at PlaywrightCrawler.requestHandler [as userProvidedRequestHandler] (/Users/paigelee/Desktop/scrapetok/typescript/scraper.ts:147:19)\\n    at async wrap (/Users/paigelee/Desktop/scrapetok/typescript/node_modules/@apify/src/index.ts:77:27)\",\"Error: Collection interrupted, no new elts found: Restarting scraper...\\n    at PlaywrightCrawler.requestHandler [as userProvidedRequestHandler] (/Users/paigelee/Desktop/scrapetok/typescript/scraper.ts:147:19)\\n    at async wrap (/Users/paigelee/Desktop/scrapetok/typescript/node_modules/@apify/src/index.ts:77:27)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":5}},\"handledAt\":\"2024-11-12T15:13:03.671Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 3,
-	"uniqueKey": "https://www.tiktok.com/@sei.schlau.waehl.afd",
-	"url": "https://www.tiktok.com/@sei.schlau.waehl.afd"
-}

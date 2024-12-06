@@ -1,52 +1,29 @@
 {
-  "requestsFinished": 0,
-  "requestsFailed": 1,
-  "requestsRetries": 1,
+  "requestsFinished": 1,
+  "requestsFailed": 0,
+  "requestsRetries": 0,
   "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 0,
-  "requestMinDurationMillis": null,
-  "requestMaxDurationMillis": 0,
-  "requestTotalFailedDurationMillis": 34750,
-  "requestTotalFinishedDurationMillis": 0,
-  "crawlerStartedAt": "2024-11-12T14:27:45.990Z",
-  "crawlerFinishedAt": "2024-11-12T14:30:00.927Z",
-  "statsPersistedAt": "2024-11-12T14:30:00.927Z",
-  "crawlerRuntimeMillis": 135598,
-  "crawlerLastStartTimestamp": 1731421665329,
+  "requestsFinishedPerMinute": 2,
+  "requestMinDurationMillis": 35071,
+  "requestMaxDurationMillis": 35071,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 35071,
+  "crawlerStartedAt": "2024-12-06T10:28:36.117Z",
+  "crawlerFinishedAt": "2024-12-06T10:29:11.303Z",
+  "statsPersistedAt": "2024-12-06T10:29:11.303Z",
+  "crawlerRuntimeMillis": 35647,
+  "crawlerLastStartTimestamp": 1733480915656,
   "requestRetryHistogram": [
-    null,
-    null,
-    null,
     1
   ],
   "statsId": 58,
-  "requestAvgFailedDurationMillis": 34750,
-  "requestAvgFinishedDurationMillis": null,
-  "requestTotalDurationMillis": 34750,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 35071,
+  "requestTotalDurationMillis": 35071,
   "requestsTotal": 1,
   "requestsWithStatusCode": {
-    "200": 4
+    "200": 1
   },
-  "errors": {
-    "/Users/paigelee/Desktop/scrapetok/typescript/scraper.ts:147:19": {
-      "missing error code": {
-        "Error": {
-          "Collection interrupted, no new elts found: Restarting scraper...": {
-            "count": 1
-          }
-        }
-      }
-    }
-  },
-  "retryErrors": {
-    "/Users/paigelee/Desktop/scrapetok/typescript/scraper.ts:147:19": {
-      "missing error code": {
-        "Error": {
-          "Collection interrupted, no new elts found: Restarting scraper...": {
-            "count": 3
-          }
-        }
-      }
-    }
-  }
+  "errors": {},
+  "retryErrors": {}
 }
