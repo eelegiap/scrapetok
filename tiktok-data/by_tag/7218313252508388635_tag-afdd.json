@@ -1,0 +1,583 @@
+{
+  "id": "7218313252508388635",
+  "desc": "Stopwatch in VHDL FPGA DE1-soc #fpga #vhdl #altera #intel #stopwatch #gospring #7segment #pushbutton #reset #fsm ",
+  "createTime": "1680644566",
+  "scheduleTime": 0,
+  "video": {
+    "id": "",
+    "height": 1024,
+    "width": 576,
+    "duration": 23,
+    "ratio": "540p",
+    "cover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oMURnDQRIjkErpEdQBsfDP8oeL41mDbJM3AXgF?lk3s=81f88b70&x-expires=1733518800&x-signature=7GlQAv%2FriAbePfhfoAJp5%2FrERvg%3D&shp=81f88b70&shcp=-",
+    "originCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/ca2f2db9c7e245bebfe1289476af0d46_1680644569?lk3s=81f88b70&x-expires=1733518800&x-signature=9h6Ziy1R8jLmuNRcUhWeXy%2FtwX4%3D&shp=81f88b70&shcp=-",
+    "dynamicCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/66ee75b1c19d4c7ea121fab69936b292_1680644569?lk3s=81f88b70&x-expires=1733518800&x-signature=xbLQZfCuZpVMLPOlyrJMtXhVJWo%3D&shp=81f88b70&shcp=-",
+    "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oos1hEFERURAdP5bGoIQfInkcB8eDDFJBQygmL/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3130&bt=1565&cs=0&ds=6&ft=4fUEKMFx8Zmo07lFqb4jVZEqrpWrKsd.&mime_type=video_mp4&qs=0&rc=M2g6NThnNDlkZjw7PGdnPEBpMzQ2aTY6ZjQ8ajMzZjczM0A1Xi0tMWA0NjUxYzIuNTMvYSNyX20xcjRfZGpgLS1kMWNzcw%3D%3D&btag=e000b8000&expire=1733368614&l=2024120421163063B5D0FF8D4A4322D0E1&ply_type=2&policy=2&signature=5aff63fb8850e64c325c1a75e111ef17&tk=tt_chain_token",
+    "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oIQXERBkkLZMg8roM4JneQgEPDDbAFj6RoKeDJ/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3840&bt=1920&cs=0&ds=3&ft=4fUEKMFx8Zmo07lFqb4jVZEqrpWrKsd.&mime_type=video_mp4&qs=0&rc=ZDc7Njs7OWVlMzlmNGhpOUBpMzQ2aTY6ZjQ8ajMzZjczM0AyLzJfMjZhNjUxYGNiMWAxYSNyX20xcjRfZGpgLS1kMWNzcw%3D%3D&btag=e000b8000&expire=1733368614&l=2024120421163063B5D0FF8D4A4322D0E1&ply_type=2&policy=2&signature=429263e9a2f2f9d652eff34d8c7f7ae6&tk=tt_chain_token",
+    "shareCover": [
+      ""
+    ],
+    "reflowCover": "",
+    "bitrate": 1603551,
+    "encodedType": "normal",
+    "format": "mp4",
+    "videoQuality": "normal",
+    "encodeUserTag": "",
+    "codecType": "h264",
+    "definition": "540p",
+    "subtitleInfos": [],
+    "zoomCover": {
+      "240": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-aiso/oMURnDQRIjkErpEdQBsfDP8oeL41mDbJM3AXgF~tplv-photomode-zoomcover:240:240.avif?lk3s=81f88b70&x-expires=1733518800&x-signature=SbUNE4t6VnOZB%2FbZgyhJaU26asA%3D&shp=81f88b70&shcp=-",
+      "480": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-aiso/oMURnDQRIjkErpEdQBsfDP8oeL41mDbJM3AXgF~tplv-photomode-zoomcover:480:480.avif?lk3s=81f88b70&x-expires=1733518800&x-signature=AfLFG6RFKwFHIvM2idjPy4o3Ngw%3D&shp=81f88b70&shcp=-",
+      "720": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-aiso/oMURnDQRIjkErpEdQBsfDP8oeL41mDbJM3AXgF~tplv-photomode-zoomcover:720:720.avif?lk3s=81f88b70&x-expires=1733518800&x-signature=B0lhydPMdfg33wzlqQwwJ99BaTg%3D&shp=81f88b70&shcp=-",
+      "960": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-aiso/oMURnDQRIjkErpEdQBsfDP8oeL41mDbJM3AXgF~tplv-photomode-zoomcover:960:960.avif?lk3s=81f88b70&x-expires=1733518800&x-signature=GN2ZNfhLJlQAzNUyHJDeFjrUNew%3D&shp=81f88b70&shcp=-"
+    },
+    "volumeInfo": {
+      "Loudness": -7.8,
+      "Peak": 1
+    },
+    "bitrateInfo": [
+      {
+        "Bitrate": 1603551,
+        "QualityType": 20,
+        "GearName": "normal_540_0",
+        "PlayAddr": {
+          "DataSize": "4663730",
+          "Width": 576,
+          "Height": 1024,
+          "Uri": "v0f044gc0000cgm9g1bc77u34fp3b1u0",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oos1hEFERURAdP5bGoIQfInkcB8eDDFJBQygmL/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3130&bt=1565&cs=0&ds=6&ft=4fUEKMFx8Zmo07lFqb4jVZEqrpWrKsd.&mime_type=video_mp4&qs=0&rc=M2g6NThnNDlkZjw7PGdnPEBpMzQ2aTY6ZjQ8ajMzZjczM0A1Xi0tMWA0NjUxYzIuNTMvYSNyX20xcjRfZGpgLS1kMWNzcw%3D%3D&btag=e000b8000&expire=1733368614&l=2024120421163063B5D0FF8D4A4322D0E1&ply_type=2&policy=2&signature=5aff63fb8850e64c325c1a75e111ef17&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oos1hEFERURAdP5bGoIQfInkcB8eDDFJBQygmL/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=3130&bt=1565&cs=0&ds=6&ft=4fUEKMFx8Zmo07lFqb4jVZEqrpWrKsd.&mime_type=video_mp4&qs=0&rc=M2g6NThnNDlkZjw7PGdnPEBpMzQ2aTY6ZjQ8ajMzZjczM0A1Xi0tMWA0NjUxYzIuNTMvYSNyX20xcjRfZGpgLS1kMWNzcw%3D%3D&btag=e000b8000&expire=1733368614&l=2024120421163063B5D0FF8D4A4322D0E1&ply_type=2&policy=2&signature=5aff63fb8850e64c325c1a75e111ef17&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=296d8d1958f94c8a9671cd450207ae80&is_play_url=1&item_id=7218313252508388635&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjcwZGE5NTkwNWZmYWM5ZjAzNTA0Zjk0ZWE3OGNjY2Jk&tk=tt_chain_token&vidc=useast2a&video_id=v0f044gc0000cgm9g1bc77u34fp3b1u0"
+          ],
+          "UrlKey": "v0f044gc0000cgm9g1bc77u34fp3b1u0_h264_540p_1603551",
+          "FileHash": "a2cfa5b394c220fa06f0da98011b727d",
+          "FileCs": "c:0-20636-da11"
+        },
+        "CodecType": "h264",
+        "MVMAF": "\"\""
+      },
+      {
+        "Bitrate": 972496,
+        "QualityType": 14,
+        "GearName": "adapt_lower_720_1",
+        "PlayAddr": {
+          "DataSize": "2828384",
+          "Width": 720,
+          "Height": 1280,
+          "Uri": "v0f044gc0000cgm9g1bc77u34fp3b1u0",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/o4Issk1ECBJCxQRfGIUAoeDDgmn6hLQYRb8FkP/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1898&bt=949&cs=2&ds=3&ft=4fUEKMFx8Zmo07lFqb4jVZEqrpWrKsd.&mime_type=video_mp4&qs=14&rc=ZWZlNDc7NjY3Mzw8OGgzPEBpMzQ2aTY6ZjQ8ajMzZjczM0BjYTNgYWA1XzYxYy4wNC0wYSNyX20xcjRfZGpgLS1kMWNzcw%3D%3D&btag=e000b8000&expire=1733368614&l=2024120421163063B5D0FF8D4A4322D0E1&ply_type=2&policy=2&signature=e09e519b3bc043d22d7bec9061a74845&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/o4Issk1ECBJCxQRfGIUAoeDDgmn6hLQYRb8FkP/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1898&bt=949&cs=2&ds=3&ft=4fUEKMFx8Zmo07lFqb4jVZEqrpWrKsd.&mime_type=video_mp4&qs=14&rc=ZWZlNDc7NjY3Mzw8OGgzPEBpMzQ2aTY6ZjQ8ajMzZjczM0BjYTNgYWA1XzYxYy4wNC0wYSNyX20xcjRfZGpgLS1kMWNzcw%3D%3D&btag=e000b8000&expire=1733368614&l=2024120421163063B5D0FF8D4A4322D0E1&ply_type=2&policy=2&signature=e09e519b3bc043d22d7bec9061a74845&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=39007e3519f94094b383c8d4c16bdcfb&is_play_url=1&item_id=7218313252508388635&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjc1YzFhMjU4MTEwMDExYTJmOGJlNWE0NTc4NzEzMmFj&tk=tt_chain_token&vidc=useast2a&video_id=v0f044gc0000cgm9g1bc77u34fp3b1u0"
+          ],
+          "UrlKey": "v0f044gc0000cgm9g1bc77u34fp3b1u0_bytevc1_720p_972496",
+          "FileHash": "fe8fd00e5523d62a879d8caf09df9ace",
+          "FileCs": "c:0-20787-4eed"
+        },
+        "CodecType": "h265_hvc1",
+        "MVMAF": "\"\""
+      },
+      {
+        "Bitrate": 813435,
+        "QualityType": 28,
+        "GearName": "adapt_540_1",
+        "PlayAddr": {
+          "DataSize": "2365775",
+          "Width": 576,
+          "Height": 1024,
+          "Uri": "v0f044gc0000cgm9g1bc77u34fp3b1u0",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oAhsRJ88kIPCEQDGmBLe3YgDUInQRAA1FQbajf/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1588&bt=794&cs=2&ds=6&ft=4fUEKMFx8Zmo07lFqb4jVZEqrpWrKsd.&mime_type=video_mp4&qs=11&rc=MzU3ZztlPDY0OzxmODtkN0BpMzQ2aTY6ZjQ8ajMzZjczM0AzMS5eNTFiXl8xXl80YWMwYSNyX20xcjRfZGpgLS1kMWNzcw%3D%3D&btag=e000b8000&expire=1733368614&l=2024120421163063B5D0FF8D4A4322D0E1&ply_type=2&policy=2&signature=b8d561558a8c7e9fd518992781c70333&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oAhsRJ88kIPCEQDGmBLe3YgDUInQRAA1FQbajf/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1588&bt=794&cs=2&ds=6&ft=4fUEKMFx8Zmo07lFqb4jVZEqrpWrKsd.&mime_type=video_mp4&qs=11&rc=MzU3ZztlPDY0OzxmODtkN0BpMzQ2aTY6ZjQ8ajMzZjczM0AzMS5eNTFiXl8xXl80YWMwYSNyX20xcjRfZGpgLS1kMWNzcw%3D%3D&btag=e000b8000&expire=1733368614&l=2024120421163063B5D0FF8D4A4322D0E1&ply_type=2&policy=2&signature=b8d561558a8c7e9fd518992781c70333&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=34fad875bca948b1a3e94b88ad144260&is_play_url=1&item_id=7218313252508388635&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmRmMTUyYTdkOGZmYWQ0YjFkNTkxYzRhZDlkMWZmMjBl&tk=tt_chain_token&vidc=useast2a&video_id=v0f044gc0000cgm9g1bc77u34fp3b1u0"
+          ],
+          "UrlKey": "v0f044gc0000cgm9g1bc77u34fp3b1u0_bytevc1_540p_813435",
+          "FileHash": "983b5b63004487d185beefdb89caca15",
+          "FileCs": "c:0-20787-45a3"
+        },
+        "CodecType": "h265_hvc1",
+        "MVMAF": "\"\""
+      },
+      {
+        "Bitrate": 680578,
+        "QualityType": 24,
+        "GearName": "lower_540_0",
+        "PlayAddr": {
+          "DataSize": "1979377",
+          "Width": 576,
+          "Height": 1024,
+          "Uri": "v0f044gc0000cgm9g1bc77u34fp3b1u0",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/o0hsRJ86kIPBE4DGmBLenwgDUInQR7A1FQbqdf/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1328&bt=664&cs=0&ds=6&ft=4fUEKMFx8Zmo07lFqb4jVZEqrpWrKsd.&mime_type=video_mp4&qs=4&rc=NWg7PDk5aTc7Mzs8O2RmOUBpMzQ2aTY6ZjQ8ajMzZjczM0BgXzMyNjEvXi0xNDNfMDAxYSNyX20xcjRfZGpgLS1kMWNzcw%3D%3D&btag=e000b8000&expire=1733368614&l=2024120421163063B5D0FF8D4A4322D0E1&ply_type=2&policy=2&signature=d306598d6c78805d2c2d725e53353a5d&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/o0hsRJ86kIPBE4DGmBLenwgDUInQR7A1FQbqdf/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1328&bt=664&cs=0&ds=6&ft=4fUEKMFx8Zmo07lFqb4jVZEqrpWrKsd.&mime_type=video_mp4&qs=4&rc=NWg7PDk5aTc7Mzs8O2RmOUBpMzQ2aTY6ZjQ8ajMzZjczM0BgXzMyNjEvXi0xNDNfMDAxYSNyX20xcjRfZGpgLS1kMWNzcw%3D%3D&btag=e000b8000&expire=1733368614&l=2024120421163063B5D0FF8D4A4322D0E1&ply_type=2&policy=2&signature=d306598d6c78805d2c2d725e53353a5d&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=463c3ab869784008a42f46965968bec2&is_play_url=1&item_id=7218313252508388635&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjcxZjJhMTZiODNhYjA1ZmVlMTE2MGIyYjVkNjgxODEy&tk=tt_chain_token&vidc=useast2a&video_id=v0f044gc0000cgm9g1bc77u34fp3b1u0"
+          ],
+          "UrlKey": "v0f044gc0000cgm9g1bc77u34fp3b1u0_h264_540p_680578",
+          "FileHash": "1a845512e411a9feb5bd45373a5da0a4",
+          "FileCs": "c:0-20636-6b22"
+        },
+        "CodecType": "h264",
+        "MVMAF": "\"\""
+      },
+      {
+        "Bitrate": 430688,
+        "QualityType": 25,
+        "GearName": "lowest_540_0",
+        "PlayAddr": {
+          "DataSize": "1252604",
+          "Width": 576,
+          "Height": 1024,
+          "Uri": "v0f044gc0000cgm9g1bc77u34fp3b1u0",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oMdJvnLOUAPFRhQEGDmDh1gB3IcRQMeIksBf8b/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=840&bt=420&cs=0&ds=6&ft=4fUEKMFx8Zmo07lFqb4jVZEqrpWrKsd.&mime_type=video_mp4&qs=5&rc=NGg1MzkzNjo6aDgzNTg4M0BpMzQ2aTY6ZjQ8ajMzZjczM0BgMV5iYjVhNTUxYGNhNGFiYSNyX20xcjRfZGpgLS1kMWNzcw%3D%3D&btag=e000b8000&expire=1733368614&l=2024120421163063B5D0FF8D4A4322D0E1&ply_type=2&policy=2&signature=6263e2c118c3c51eb57287805d551b6b&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oMdJvnLOUAPFRhQEGDmDh1gB3IcRQMeIksBf8b/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=840&bt=420&cs=0&ds=6&ft=4fUEKMFx8Zmo07lFqb4jVZEqrpWrKsd.&mime_type=video_mp4&qs=5&rc=NGg1MzkzNjo6aDgzNTg4M0BpMzQ2aTY6ZjQ8ajMzZjczM0BgMV5iYjVhNTUxYGNhNGFiYSNyX20xcjRfZGpgLS1kMWNzcw%3D%3D&btag=e000b8000&expire=1733368614&l=2024120421163063B5D0FF8D4A4322D0E1&ply_type=2&policy=2&signature=6263e2c118c3c51eb57287805d551b6b&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=e0d575d2f0c54e8787d380e6e0a24ec1&is_play_url=1&item_id=7218313252508388635&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmFiODVjMjU4MGRkZDMxOGNmNDA5MTU0NTAxODY0ODIy&tk=tt_chain_token&vidc=useast2a&video_id=v0f044gc0000cgm9g1bc77u34fp3b1u0"
+          ],
+          "UrlKey": "v0f044gc0000cgm9g1bc77u34fp3b1u0_h264_540p_430688",
+          "FileHash": "e6a6a961ab27c81de2aab22efafd27ee",
+          "FileCs": "c:0-20636-7088"
+        },
+        "CodecType": "h264",
+        "MVMAF": "\"\""
+      }
+    ],
+    "VQScore": "67.78",
+    "claInfo": {
+      "hasOriginalAudio": true,
+      "enableAutoCaption": true,
+      "captionInfos": [],
+      "noCaptionReason": 1
+    }
+  },
+  "author": {
+    "id": "7044904675712599045",
+    "shortId": "",
+    "uniqueId": "ioannisigi",
+    "nickname": "ioannis",
+    "avatarLarger": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7336549017421447174~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=71309&refresh_token=505bef094cc8e6020ce3954a7b034f00&x-expires=1733518800&x-signature=FpNCqf0wjKM3XzDFkEJIKqy4j5g%3D&shp=a5d48078&shcp=81f88b70",
+    "avatarMedium": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7336549017421447174~c5_720x720.jpeg?lk3s=a5d48078&nonce=46314&refresh_token=6af8d700d1f80e38bb1af08703e529fc&x-expires=1733518800&x-signature=TWHu5zOHwRZGE%2FhNI%2Fp2FhrbR7I%3D&shp=a5d48078&shcp=81f88b70",
+    "avatarThumb": "https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7336549017421447174~c5_100x100.jpeg?lk3s=a5d48078&nonce=9597&refresh_token=258dd65ed417f201017c3362cfc6b073&x-expires=1733518800&x-signature=kBkGynnLHw3n%2F0CNqCvqyK2MQWw%3D&shp=a5d48078&shcp=81f88b70",
+    "signature": "https://www.youtube.com/@IoannisIGI",
+    "createTime": 0,
+    "verified": false,
+    "secUid": "MS4wLjABAAAAKlmXOGE8tiSJynUgBihzYO8gDjG5YFAEg-h3ZqcNXTFaKy_udlJHJBLBkD41I5e0",
+    "ftc": false,
+    "relation": 0,
+    "openFavorite": false,
+    "commentSetting": 0,
+    "duetSetting": 0,
+    "stitchSetting": 0,
+    "privateAccount": false,
+    "secret": false,
+    "isADVirtual": false,
+    "roomId": "",
+    "uniqueIdModifyTime": 0,
+    "ttSeller": false,
+    "downloadSetting": 0,
+    "recommendReason": "",
+    "nowInvitationCardUrl": "",
+    "nickNameModifyTime": 0,
+    "isEmbedBanned": false,
+    "canExpPlaylist": false,
+    "suggestAccountBind": false
+  },
+  "music": {
+    "id": "6488563407314324237",
+    "title": "Let's go",
+    "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/e2622c25d69f48a7966b11581f36b581",
+    "coverLarge": "https://p77-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/default_clip_cover.png.jpeg",
+    "coverMedium": "https://p77-sg.tiktokcdn.com/aweme/200x200/tiktok-obj/default_clip_cover.png.jpeg",
+    "coverThumb": "https://p77-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/default_clip_cover.png.jpeg",
+    "authorName": "Official Sound Studio",
+    "original": false,
+    "duration": 20,
+    "scheduleSearchTime": 0,
+    "collected": false,
+    "preciseDuration": {
+      "preciseDuration": 20,
+      "preciseShootDuration": 20,
+      "preciseAuditionDuration": 20,
+      "preciseVideoDuration": 6000
+    }
+  },
+  "challenges": [
+    {
+      "id": "1603685292343297",
+      "title": "fpga",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "1647854474151938",
+      "title": "vhdl",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "60406232",
+      "title": "altera",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "2843481",
+      "title": "intel",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "246293",
+      "title": "stopwatch",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "58801151",
+      "title": "GoSpring",
+      "desc": "#gospring\nHãy cùng Go Spring thể hiện đẳng cấp tự tin, khoe thần thái và sở hữu ngay những giải thưởng giá trị bằng cách tham gia ngay thử thách #gospring cùng filter thần thái và nền nhạc đầy kiêu hãnh của Go Spring nhé!\nThử thách #gospring từ Sản phẩm cân bằng nội tiết tố Go Spring sẽ diễn ra từ 05/10/2020 đến 15/10/2020 trên toàn quốc.\n\nCÁCH THỨC THAM GIA:\n-  BƯỚC 1: Quay 1 Video sử dụng nền nhạc “ Let’s go” và hiệu ứng “Be A Queen” từ Go Spring\n-  BƯỚC 2: Thể hiện phiên bản đăng quang và khoảnh khắc nhận vương miện của bạn. \n-  BƯỚC 3: Đăng lên trang Tiktok cá nhân ở chế độ công khai kèm Hashtag #GoSpring #ThanhXuanBatTan #MatxiCorp\n\nGIẢI THƯỞNG:\n-  1 giải đặc biệt: 01 iPhone 11 màu tím dành cho video có tổng lượt view, thả tim và bình luận cao nhất\n-  3 giải phong cách: mỗi giải là combo 3 hộp Sản phẩm nội tiết tố Go Spring dành cho 3 video có tổng lượt view, thả tim và bình luận cao tiếp theo.\n\nLƯU Ý:\n-  Kết quả của cuộc thi sẽ được công bố vào ngày 20/10/2020 trên Fanpage chính thức của Matxi Corp: https://www.facebook.com/matxicorp.official và Fanpage của CEO Lê Thị Hồng Nhung: https://www.facebook.com/ceolethihongnhung/\n-  Go Spring được phép sử dụng hình ảnh người tham gia cho mục đích truyền thông.\n- Trong mọi trường hợp, quyền giải thích và quyết định cuối cùng do BTC quyết định.",
+      "profileLarger": "https://p77-sg.tiktokcdn.com/obj/ad-site-i18n-sg/202010029cc65e483322bf6348bb890c?shp=81f88b70&shcp=-",
+      "profileMedium": "https://p77-sg.tiktokcdn.com/obj/ad-site-i18n-sg/202010029cc65e483322bf6348bb890c?shp=81f88b70&shcp=-",
+      "profileThumb": "https://p77-sg.tiktokcdn.com/obj/ad-site-i18n-sg/202010029cc65e483322bf6348bb890c?shp=81f88b70&shcp=-",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "isCommerce": true
+    },
+    {
+      "id": "1629761970315270",
+      "title": "7segment",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "16399109",
+      "title": "pushbutton",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "260167",
+      "title": "reset",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "1626837",
+      "title": "fsm",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    }
+  ],
+  "stats": {
+    "diggCount": 132,
+    "shareCount": 7,
+    "commentCount": 4,
+    "playCount": 9652,
+    "collectCount": "18"
+  },
+  "statsV2": {
+    "diggCount": "132",
+    "shareCount": "7",
+    "commentCount": "4",
+    "playCount": "9652",
+    "collectCount": "18",
+    "repostCount": "0"
+  },
+  "warnInfo": [],
+  "originalItem": false,
+  "officalItem": false,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "start": 31,
+      "end": 36,
+      "hashtagId": "1603685292343297",
+      "hashtagName": "fpga",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 37,
+      "end": 42,
+      "hashtagId": "1647854474151938",
+      "hashtagName": "vhdl",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 43,
+      "end": 50,
+      "hashtagId": "60406232",
+      "hashtagName": "altera",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 51,
+      "end": 57,
+      "hashtagId": "2843481",
+      "hashtagName": "intel",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 58,
+      "end": 68,
+      "hashtagId": "246293",
+      "hashtagName": "stopwatch",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 69,
+      "end": 78,
+      "hashtagName": "gospring",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 79,
+      "end": 88,
+      "hashtagId": "1629761970315270",
+      "hashtagName": "7segment",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 89,
+      "end": 100,
+      "hashtagId": "16399109",
+      "hashtagName": "pushbutton",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 101,
+      "end": 107,
+      "hashtagId": "260167",
+      "hashtagName": "reset",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 108,
+      "end": 112,
+      "hashtagId": "1626837",
+      "hashtagName": "fsm",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    }
+  ],
+  "secret": false,
+  "forFriend": false,
+  "digged": false,
+  "itemCommentStatus": 0,
+  "takeDown": 0,
+  "effectStickers": [],
+  "authorStats": {
+    "followerCount": 113,
+    "followingCount": 162,
+    "heart": 378,
+    "heartCount": 378,
+    "videoCount": 12,
+    "diggCount": 34,
+    "friendCount": 0
+  },
+  "privateItem": false,
+  "duetEnabled": true,
+  "stitchEnabled": true,
+  "stickersOnItem": [],
+  "shareEnabled": true,
+  "comments": [],
+  "duetDisplay": 0,
+  "stitchDisplay": 0,
+  "indexEnabled": true,
+  "diversificationLabels": [
+    "Tech Products & Infos",
+    "Technology",
+    "Culture & Education & Technology"
+  ],
+  "locationCreated": "GR",
+  "suggestedWords": [],
+  "contents": [
+    {
+      "desc": "Stopwatch in VHDL FPGA DE1-soc #fpga #vhdl #altera #intel #stopwatch #gospring #7segment #pushbutton #reset #fsm ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "start": 31,
+          "end": 36,
+          "hashtagId": "1603685292343297",
+          "hashtagName": "fpga",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 37,
+          "end": 42,
+          "hashtagId": "1647854474151938",
+          "hashtagName": "vhdl",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 43,
+          "end": 50,
+          "hashtagId": "60406232",
+          "hashtagName": "altera",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 51,
+          "end": 57,
+          "hashtagId": "2843481",
+          "hashtagName": "intel",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 58,
+          "end": 68,
+          "hashtagId": "246293",
+          "hashtagName": "stopwatch",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 69,
+          "end": 78,
+          "hashtagName": "gospring",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 79,
+          "end": 88,
+          "hashtagId": "1629761970315270",
+          "hashtagName": "7segment",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 89,
+          "end": 100,
+          "hashtagId": "16399109",
+          "hashtagName": "pushbutton",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 101,
+          "end": 107,
+          "hashtagId": "260167",
+          "hashtagName": "reset",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 108,
+          "end": 112,
+          "hashtagId": "1626837",
+          "hashtagName": "fsm",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        }
+      ]
+    }
+  ],
+  "diversificationId": 10067,
+  "collected": false,
+  "channelTags": [],
+  "item_control": {
+    "can_repost": true
+  },
+  "IsAigc": false,
+  "AIGCDescription": "",
+  "backendSourceEventTracking": ""
+}

@@ -1,0 +1,675 @@
+{
+  "id": "7344076970403040514",
+  "desc": "#ControlPanelTester #plc  #LadderProgramming #ladderlogic #ProgrammableRelay #omron #zen #wiringdiagram #electrician #industrialelectrician #design #3dmodeling  #solidworks @Adham Rifai ",
+  "createTime": "1709926181",
+  "scheduleTime": 0,
+  "video": {
+    "id": "",
+    "height": 1024,
+    "width": 576,
+    "duration": 16,
+    "ratio": "540p",
+    "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/ok00ZyVTfAAdAkBECy8rKAIwJiIFb9a1boiEAQ?lk3s=81f88b70&x-expires=1733518800&x-signature=aeanSvUXjwmAj4Wsni8FNQawERU%3D&shp=81f88b70&shcp=-",
+    "originCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/5a7ae9706bef482398fd7d69fa5d612b_1709926182?lk3s=81f88b70&x-expires=1733518800&x-signature=5xpyQ6NI3kUy0Xq9IEUZ7JVvRAA%3D&shp=81f88b70&shcp=-",
+    "dynamicCover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/38e998d7b7354efdbaa490c1ae6d4ec0_1709926183?lk3s=81f88b70&x-expires=1733518800&x-signature=h2DE6E2W5j%2FMuUb1TYMMcT%2FgKwI%3D&shp=81f88b70&shcp=-",
+    "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oEL9oIEEBJHKbAZ0wifyAqQEbiAkByAC50QInr/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1028&bt=514&cs=0&ds=6&ft=4fUEKMFx8Zmo0QlFqb4jVqzcrpWrKsd.&mime_type=video_mp4&qs=4&rc=PDo5aDs3NzdpZGk8N2U4aUBpM244PG45cjVwcTMzODczNEAtLl4yYl81Xy4xMy8zXy4tYSM1ay4tMmRjXmlgLS1kMS1zcw%3D%3D&btag=e000b8000&expire=1733368601&l=20241204211624D6DDB81BED6F19218E12&ply_type=2&policy=2&signature=0ee66a39d7cb4018b2625faab958579b&tk=tt_chain_token",
+    "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/ocAIyr0kABZ9JobraQi3wKEiIA0tQsEfCCAyLb/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2112&bt=1056&cs=0&ds=3&ft=4fUEKMFx8Zmo0QlFqb4jVqzcrpWrKsd.&mime_type=video_mp4&qs=0&rc=NjxpZWhoaWRpZDRpaGc3M0BpM244PG45cjVwcTMzODczNEAxM2EtMWJiNS0xX2I0NjBhYSM1ay4tMmRjXmlgLS1kMS1zcw%3D%3D&btag=e000b8000&expire=1733368601&l=20241204211624D6DDB81BED6F19218E12&ply_type=2&policy=2&signature=c61ad3b8f55af20c82219d0aeef39255&tk=tt_chain_token",
+    "shareCover": [
+      ""
+    ],
+    "reflowCover": "",
+    "bitrate": 526639,
+    "encodedType": "normal",
+    "format": "mp4",
+    "videoQuality": "lower",
+    "encodeUserTag": "",
+    "codecType": "h264",
+    "definition": "540p",
+    "subtitleInfos": [],
+    "zoomCover": {
+      "240": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ok00ZyVTfAAdAkBECy8rKAIwJiIFb9a1boiEAQ~tplv-photomode-zoomcover:240:240.avif?lk3s=81f88b70&x-expires=1733518800&x-signature=yRox0U73PqA%2F7BLcLXDw%2BaiiLhE%3D&shp=81f88b70&shcp=-",
+      "480": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ok00ZyVTfAAdAkBECy8rKAIwJiIFb9a1boiEAQ~tplv-photomode-zoomcover:480:480.avif?lk3s=81f88b70&x-expires=1733518800&x-signature=BbM%2FeQor2AtMX7UM0%2B4ATI5UT0I%3D&shp=81f88b70&shcp=-",
+      "720": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ok00ZyVTfAAdAkBECy8rKAIwJiIFb9a1boiEAQ~tplv-photomode-zoomcover:720:720.avif?lk3s=81f88b70&x-expires=1733518800&x-signature=6Vmq4PElif0kknZjD8g82ps8tJM%3D&shp=81f88b70&shcp=-",
+      "960": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ok00ZyVTfAAdAkBECy8rKAIwJiIFb9a1boiEAQ~tplv-photomode-zoomcover:960:960.avif?lk3s=81f88b70&x-expires=1733518800&x-signature=ZI6YnIscDRvVgsNUf4%2Bc92PwHGU%3D&shp=81f88b70&shcp=-"
+    },
+    "volumeInfo": {
+      "Loudness": -13.1,
+      "Peak": 1
+    },
+    "bitrateInfo": [
+      {
+        "Bitrate": 538973,
+        "QualityType": 14,
+        "GearName": "adapt_lower_720_1",
+        "PlayAddr": {
+          "DataSize": "1143096",
+          "Width": 720,
+          "Height": 1280,
+          "Uri": "v10044g50000cnlma2fog65k0915nk80",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oIoWR2gplQQCELBozB6FfnUEISDgBxA3JgfUtI/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1052&bt=526&cs=2&ds=3&ft=4fUEKMFx8Zmo0QlFqb4jVqzcrpWrKsd.&mime_type=video_mp4&qs=14&rc=aTo2OmQ6NTlpNjk7ZTxmNEBpM244PG45cjVwcTMzODczNEBjYjA1XjFjXzQxMDMxYTNeYSM1ay4tMmRjXmlgLS1kMS1zcw%3D%3D&btag=e000b8000&expire=1733368601&l=20241204211624D6DDB81BED6F19218E12&ply_type=2&policy=2&signature=18d13845ecf8ec7d10bb4418c2f5ad34&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oIoWR2gplQQCELBozB6FfnUEISDgBxA3JgfUtI/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1052&bt=526&cs=2&ds=3&ft=4fUEKMFx8Zmo0QlFqb4jVqzcrpWrKsd.&mime_type=video_mp4&qs=14&rc=aTo2OmQ6NTlpNjk7ZTxmNEBpM244PG45cjVwcTMzODczNEBjYjA1XjFjXzQxMDMxYTNeYSM1ay4tMmRjXmlgLS1kMS1zcw%3D%3D&btag=e000b8000&expire=1733368601&l=20241204211624D6DDB81BED6F19218E12&ply_type=2&policy=2&signature=18d13845ecf8ec7d10bb4418c2f5ad34&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=a16cd94b6836437fb6f247aa8733e7ff&is_play_url=1&item_id=7344076970403040514&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmQ3YmE3ZDU5MTY0ODQyY2I5N2VmZGQ0N2M4YWI4ZDM3&tk=tt_chain_token&vidc=sg1&video_id=v10044g50000cnlma2fog65k0915nk80"
+          ],
+          "UrlKey": "v10044g50000cnlma2fog65k0915nk80_bytevc1_720p_538973",
+          "FileHash": "e881ed508347fbfc0ac8e9017f916b47",
+          "FileCs": "c:0-15654-bd70"
+        },
+        "CodecType": "h265_hvc1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"ori\\\": {\\\"v1080\\\": 86.421, \\\"v960\\\": 89.251, \\\"v864\\\": 91.147, \\\"v720\\\": 93.445}, \\\"srv1\\\": {\\\"v1080\\\": 96.149, \\\"v960\\\": 97.533, \\\"v864\\\": 98.302, \\\"v720\\\": 98.754}}}\""
+      },
+      {
+        "Bitrate": 526639,
+        "QualityType": 24,
+        "GearName": "lower_540_0",
+        "PlayAddr": {
+          "DataSize": "1116937",
+          "Width": 576,
+          "Height": 1024,
+          "Uri": "v10044g50000cnlma2fog65k0915nk80",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oEL9oIEEBJHKbAZ0wifyAqQEbiAkByAC50QInr/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1028&bt=514&cs=0&ds=6&ft=4fUEKMFx8Zmo0QlFqb4jVqzcrpWrKsd.&mime_type=video_mp4&qs=4&rc=PDo5aDs3NzdpZGk8N2U4aUBpM244PG45cjVwcTMzODczNEAtLl4yYl81Xy4xMy8zXy4tYSM1ay4tMmRjXmlgLS1kMS1zcw%3D%3D&btag=e000b8000&expire=1733368601&l=20241204211624D6DDB81BED6F19218E12&ply_type=2&policy=2&signature=0ee66a39d7cb4018b2625faab958579b&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oEL9oIEEBJHKbAZ0wifyAqQEbiAkByAC50QInr/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1028&bt=514&cs=0&ds=6&ft=4fUEKMFx8Zmo0QlFqb4jVqzcrpWrKsd.&mime_type=video_mp4&qs=4&rc=PDo5aDs3NzdpZGk8N2U4aUBpM244PG45cjVwcTMzODczNEAtLl4yYl81Xy4xMy8zXy4tYSM1ay4tMmRjXmlgLS1kMS1zcw%3D%3D&btag=e000b8000&expire=1733368601&l=20241204211624D6DDB81BED6F19218E12&ply_type=2&policy=2&signature=0ee66a39d7cb4018b2625faab958579b&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=0f15bb64296f4a1fb484b4e85ea61709&is_play_url=1&item_id=7344076970403040514&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjQyYTFkOTFhMTFkZjg5NTFlZTdhNTU5YjZiMDczM2E1&tk=tt_chain_token&vidc=sg1&video_id=v10044g50000cnlma2fog65k0915nk80"
+          ],
+          "UrlKey": "v10044g50000cnlma2fog65k0915nk80_h264_540p_526639",
+          "FileHash": "6c773808e8bf7c8b3e18a911c9d69b7e",
+          "FileCs": "c:0-15315-c72d"
+        },
+        "CodecType": "h264",
+        "MVMAF": "\"\""
+      },
+      {
+        "Bitrate": 450317,
+        "QualityType": 28,
+        "GearName": "adapt_540_1",
+        "PlayAddr": {
+          "DataSize": "955067",
+          "Width": 576,
+          "Height": 1024,
+          "Uri": "v10044g50000cnlma2fog65k0915nk80",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o4Ijl4QWQfjQu6GvCAeALCAg6ogRrSfTDs1LzI/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=878&bt=439&cs=2&ds=6&ft=4fUEKMFx8Zmo0QlFqb4jVqzcrpWrKsd.&mime_type=video_mp4&qs=11&rc=NWllPGU0OGQ6Zzk3PDlpZkBpM244PG45cjVwcTMzODczNEAyYGJfLWIxXzExNDZhNjFhYSM1ay4tMmRjXmlgLS1kMS1zcw%3D%3D&btag=e000b8000&expire=1733368601&l=20241204211624D6DDB81BED6F19218E12&ply_type=2&policy=2&signature=7aa36257ff3a80e5be9baafcd61969c2&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o4Ijl4QWQfjQu6GvCAeALCAg6ogRrSfTDs1LzI/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=878&bt=439&cs=2&ds=6&ft=4fUEKMFx8Zmo0QlFqb4jVqzcrpWrKsd.&mime_type=video_mp4&qs=11&rc=NWllPGU0OGQ6Zzk3PDlpZkBpM244PG45cjVwcTMzODczNEAyYGJfLWIxXzExNDZhNjFhYSM1ay4tMmRjXmlgLS1kMS1zcw%3D%3D&btag=e000b8000&expire=1733368601&l=20241204211624D6DDB81BED6F19218E12&ply_type=2&policy=2&signature=7aa36257ff3a80e5be9baafcd61969c2&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=dc4f96d994764d47ba45e10bb9ebcf52&is_play_url=1&item_id=7344076970403040514&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjU1YzJjZDg5M2U2NjJiODU5NmUzZjhhYzNjMWQ0ZjZh&tk=tt_chain_token&vidc=sg1&video_id=v10044g50000cnlma2fog65k0915nk80"
+          ],
+          "UrlKey": "v10044g50000cnlma2fog65k0915nk80_bytevc1_540p_450317",
+          "FileHash": "70e5d783f58e61bb3fc3bb653c646701",
+          "FileCs": "c:0-15654-f248"
+        },
+        "CodecType": "h265_hvc1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"ori\\\": {\\\"v1080\\\": 81.843, \\\"v960\\\": 84.915, \\\"v864\\\": 87.425, \\\"v720\\\": 90.982}, \\\"srv1\\\": {\\\"v1080\\\": 95.205, \\\"v960\\\": 97.381, \\\"v864\\\": 97.59, \\\"v720\\\": 99.048}}}\""
+      },
+      {
+        "Bitrate": 382839,
+        "QualityType": 25,
+        "GearName": "lowest_540_0",
+        "PlayAddr": {
+          "DataSize": "811955",
+          "Width": 576,
+          "Height": 1024,
+          "Uri": "v10044g50000cnlma2fog65k0915nk80",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o8yCbPi90IBpE0MAKQ7wfkiAyrEhIiJAoYybZA/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=746&bt=373&cs=0&ds=6&ft=4fUEKMFx8Zmo0QlFqb4jVqzcrpWrKsd.&mime_type=video_mp4&qs=5&rc=NDdoaTM4Ojg7N2llPGc6NEBpM244PG45cjVwcTMzODczNEBfMGFeMzI2Xl8xXjUvMTYzYSM1ay4tMmRjXmlgLS1kMS1zcw%3D%3D&btag=e000b8000&expire=1733368601&l=20241204211624D6DDB81BED6F19218E12&ply_type=2&policy=2&signature=9ba6629b10a098e478ff4d51e3b15ebe&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o8yCbPi90IBpE0MAKQ7wfkiAyrEhIiJAoYybZA/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=746&bt=373&cs=0&ds=6&ft=4fUEKMFx8Zmo0QlFqb4jVqzcrpWrKsd.&mime_type=video_mp4&qs=5&rc=NDdoaTM4Ojg7N2llPGc6NEBpM244PG45cjVwcTMzODczNEBfMGFeMzI2Xl8xXjUvMTYzYSM1ay4tMmRjXmlgLS1kMS1zcw%3D%3D&btag=e000b8000&expire=1733368601&l=20241204211624D6DDB81BED6F19218E12&ply_type=2&policy=2&signature=9ba6629b10a098e478ff4d51e3b15ebe&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=61974d298baf44b8a5975560afde34b1&is_play_url=1&item_id=7344076970403040514&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjQ1YWUxMDYyYzY5NjcxMjJhNDQ1OTgwZmQ4ZjRjNjcw&tk=tt_chain_token&vidc=sg1&video_id=v10044g50000cnlma2fog65k0915nk80"
+          ],
+          "UrlKey": "v10044g50000cnlma2fog65k0915nk80_h264_540p_382839",
+          "FileHash": "079fbf72139c591c77879ae6b8748c95",
+          "FileCs": "c:0-15323-105f"
+        },
+        "CodecType": "h264",
+        "MVMAF": "\"\""
+      }
+    ],
+    "VQScore": "67.87",
+    "claInfo": {
+      "hasOriginalAudio": false,
+      "enableAutoCaption": false,
+      "captionInfos": [],
+      "noCaptionReason": 2
+    }
+  },
+  "author": {
+    "id": "7076218535534969862",
+    "shortId": "",
+    "uniqueId": "ibrahimrefaii",
+    "nickname": "Ibrahim Refaii",
+    "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/7076439411151339521.jpeg?lk3s=a5d48078&nonce=37246&refresh_token=40f6bac8f3960087aab5e5fd851f8ba4&x-expires=1733518800&x-signature=L24NfyoN9t01n5pTtKKUzKx%2Bjr0%3D&shp=a5d48078&shcp=81f88b70",
+    "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/7076439411151339521.jpeg?lk3s=a5d48078&nonce=44975&refresh_token=f878ab791ed5b40221046cfd1d8ad08b&x-expires=1733518800&x-signature=hcqHMUB9FNUnpuwkA01oL%2BIdpAY%3D&shp=a5d48078&shcp=81f88b70",
+    "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7076439411151339521.jpeg?lk3s=a5d48078&nonce=36365&refresh_token=0432abdc8c60f8d9ece620cad02ed0df&x-expires=1733518800&x-signature=RDtWawvPm%2BO6Obx5T01Vi%2F5ZRe8%3D&shp=a5d48078&shcp=81f88b70",
+    "signature": "baalbeck - بعلبك \n70734722",
+    "createTime": 0,
+    "verified": false,
+    "secUid": "MS4wLjABAAAADmfPtCoJivotz_ekH82nQ8KcFUos9CGOExvTxc0Rsi_U_A4NLI-xdVmRnjTljaGS",
+    "ftc": false,
+    "relation": 0,
+    "openFavorite": false,
+    "commentSetting": 0,
+    "duetSetting": 0,
+    "stitchSetting": 0,
+    "privateAccount": false,
+    "secret": false,
+    "isADVirtual": false,
+    "roomId": "",
+    "uniqueIdModifyTime": 0,
+    "ttSeller": false,
+    "downloadSetting": 0,
+    "recommendReason": "",
+    "nowInvitationCardUrl": "",
+    "nickNameModifyTime": 0,
+    "isEmbedBanned": false,
+    "canExpPlaylist": false,
+    "suggestAccountBind": false
+  },
+  "music": {
+    "id": "7289398211474458626",
+    "title": "JUJALARIM FUNK",
+    "playUrl": "https://sf77-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/ogyUggYwPVhqkClgAH2TFe74H4eTVKDaexQzVk",
+    "coverLarge": "https://p77-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/o0GaB7bnQEkcZolt5JYfAKeSpBUCkDVA8AABEg.jpeg",
+    "coverMedium": "https://p77-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/o0GaB7bnQEkcZolt5JYfAKeSpBUCkDVA8AABEg.jpeg",
+    "coverThumb": "https://p77-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/o0GaB7bnQEkcZolt5JYfAKeSpBUCkDVA8AABEg.jpeg",
+    "authorName": "Eternxlkz & MC MAESTRO",
+    "original": false,
+    "duration": 60,
+    "album": "JUJALARIM FUNK",
+    "scheduleSearchTime": 0,
+    "collected": false,
+    "preciseDuration": {
+      "preciseDuration": 60,
+      "preciseShootDuration": 60,
+      "preciseAuditionDuration": 60,
+      "preciseVideoDuration": 60
+    }
+  },
+  "challenges": [
+    {
+      "id": "7344073685650636801",
+      "title": "controlpaneltester",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "4550077",
+      "title": "plc",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "1709579360679942",
+      "title": "ladderprogramming",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "1638112726812678",
+      "title": "ladderlogic",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "7344075046387712002",
+      "title": "programmablerelay",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "40842367",
+      "title": "omron",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "39600",
+      "title": "zen",
+      "desc": "Estamos todos Zen depois dessa semana de provas ~~~",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "1659092227442694",
+      "title": "wiringdiagram",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "2897906",
+      "title": "electrician",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "1608905243683845",
+      "title": "industrialelectrician",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "28697",
+      "title": "design",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "30729303",
+      "title": "3dmodeling",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "1599346322635781",
+      "title": "solidworks",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    }
+  ],
+  "stats": {
+    "diggCount": 41,
+    "shareCount": 1,
+    "commentCount": 2,
+    "playCount": 1026,
+    "collectCount": "7"
+  },
+  "statsV2": {
+    "diggCount": "41",
+    "shareCount": "1",
+    "commentCount": "2",
+    "playCount": "1026",
+    "collectCount": "7",
+    "repostCount": "0"
+  },
+  "warnInfo": [],
+  "originalItem": false,
+  "officalItem": false,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "start": 0,
+      "end": 19,
+      "hashtagId": "7344073685650636801",
+      "hashtagName": "controlpaneltester",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 20,
+      "end": 24,
+      "hashtagId": "4550077",
+      "hashtagName": "plc",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 26,
+      "end": 44,
+      "hashtagId": "1709579360679942",
+      "hashtagName": "ladderprogramming",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 45,
+      "end": 57,
+      "hashtagId": "1638112726812678",
+      "hashtagName": "ladderlogic",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 58,
+      "end": 76,
+      "hashtagId": "7344075046387712002",
+      "hashtagName": "programmablerelay",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 77,
+      "end": 83,
+      "hashtagId": "40842367",
+      "hashtagName": "omron",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 84,
+      "end": 88,
+      "hashtagId": "39600",
+      "hashtagName": "zen",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 89,
+      "end": 103,
+      "hashtagId": "1659092227442694",
+      "hashtagName": "wiringdiagram",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 104,
+      "end": 116,
+      "hashtagId": "2897906",
+      "hashtagName": "electrician",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 117,
+      "end": 139,
+      "hashtagId": "1608905243683845",
+      "hashtagName": "industrialelectrician",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 140,
+      "end": 147,
+      "hashtagId": "28697",
+      "hashtagName": "design",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 148,
+      "end": 159,
+      "hashtagId": "30729303",
+      "hashtagName": "3dmodeling",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 161,
+      "end": 172,
+      "hashtagId": "1599346322635781",
+      "hashtagName": "solidworks",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 173,
+      "end": 185,
+      "hashtagName": "",
+      "type": 0,
+      "subType": 0,
+      "userId": "7072404369820697605",
+      "isCommerce": false,
+      "userUniqueId": "adham.rifai",
+      "secUid": "MS4wLjABAAAAtX0_K3E3Z4lTa5Wwvybu3RC3MlRaVmpbaRFx2RcmPoW5CdA6u_HNX0Zq5zSe76am"
+    }
+  ],
+  "secret": false,
+  "forFriend": false,
+  "digged": false,
+  "itemCommentStatus": 0,
+  "takeDown": 0,
+  "effectStickers": [],
+  "authorStats": {
+    "followerCount": 1122,
+    "followingCount": 1138,
+    "heart": 6841,
+    "heartCount": 6841,
+    "videoCount": 103,
+    "diggCount": 2868,
+    "friendCount": 0
+  },
+  "privateItem": false,
+  "duetEnabled": true,
+  "stitchEnabled": true,
+  "stickersOnItem": [],
+  "shareEnabled": true,
+  "comments": [],
+  "duetDisplay": 0,
+  "stitchDisplay": 0,
+  "indexEnabled": true,
+  "locationCreated": "LB",
+  "suggestedWords": [],
+  "contents": [
+    {
+      "desc": "#ControlPanelTester #plc  #LadderProgramming #ladderlogic #ProgrammableRelay #omron #zen #wiringdiagram #electrician #industrialelectrician #design #3dmodeling  #solidworks @Adham Rifai ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "start": 0,
+          "end": 19,
+          "hashtagId": "7344073685650636801",
+          "hashtagName": "controlpaneltester",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 20,
+          "end": 24,
+          "hashtagId": "4550077",
+          "hashtagName": "plc",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 26,
+          "end": 44,
+          "hashtagId": "1709579360679942",
+          "hashtagName": "ladderprogramming",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 45,
+          "end": 57,
+          "hashtagId": "1638112726812678",
+          "hashtagName": "ladderlogic",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 58,
+          "end": 76,
+          "hashtagId": "7344075046387712002",
+          "hashtagName": "programmablerelay",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 77,
+          "end": 83,
+          "hashtagId": "40842367",
+          "hashtagName": "omron",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 84,
+          "end": 88,
+          "hashtagId": "39600",
+          "hashtagName": "zen",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 89,
+          "end": 103,
+          "hashtagId": "1659092227442694",
+          "hashtagName": "wiringdiagram",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 104,
+          "end": 116,
+          "hashtagId": "2897906",
+          "hashtagName": "electrician",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 117,
+          "end": 139,
+          "hashtagId": "1608905243683845",
+          "hashtagName": "industrialelectrician",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 140,
+          "end": 147,
+          "hashtagId": "28697",
+          "hashtagName": "design",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 148,
+          "end": 159,
+          "hashtagId": "30729303",
+          "hashtagName": "3dmodeling",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 161,
+          "end": 172,
+          "hashtagId": "1599346322635781",
+          "hashtagName": "solidworks",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 173,
+          "end": 185,
+          "hashtagName": "",
+          "type": 0,
+          "subType": 0,
+          "userId": "7072404369820697605",
+          "isCommerce": false,
+          "userUniqueId": "adham.rifai",
+          "secUid": "MS4wLjABAAAAtX0_K3E3Z4lTa5Wwvybu3RC3MlRaVmpbaRFx2RcmPoW5CdA6u_HNX0Zq5zSe76am"
+        }
+      ]
+    }
+  ],
+  "collected": false,
+  "channelTags": [],
+  "item_control": {
+    "can_repost": true
+  },
+  "IsAigc": false,
+  "AIGCDescription": "",
+  "backendSourceEventTracking": ""
+}

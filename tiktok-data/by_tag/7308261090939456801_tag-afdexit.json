@@ -1,0 +1,362 @@
+{
+  "id": "7308261090939456801",
+  "desc": "",
+  "createTime": "1701587155",
+  "scheduleTime": 0,
+  "video": {
+    "id": "",
+    "height": 848,
+    "width": 464,
+    "duration": 67,
+    "ratio": "480p",
+    "cover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/o8NCIDbuIAPZfPAEuDKEvzgcHE1RQMF7lsBzuf?lk3s=81f88b70&x-expires=1733518800&x-signature=cxIzgNSbrFIndFYkNnrlvj%2FH%2B1w%3D&shp=81f88b70&shcp=-",
+    "originCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/b5a353be2a4246e592a4483d4d5cff6c_1701587157?lk3s=81f88b70&x-expires=1733518800&x-signature=RxjYYFux9hzoM54%2BUtAYqi1TVKo%3D&shp=81f88b70&shcp=-",
+    "dynamicCover": "https://p16-sign-useast2a.tiktokcdn.com/obj/tos-useast2a-p-0037-euttp/846dc645d5f848a3812b7c38cebee7ca_1701587158?lk3s=81f88b70&x-expires=1733518800&x-signature=auXxGMfFPb%2BEVTEqoCjPDoEF1JA%3D&shp=81f88b70&shcp=-",
+    "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068-euttp/okIUrRBlKbsKgFzBuuhDNQQEPPDfAZfw7ECzEC/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&br=668&bt=334&cs=0&ds=2&ft=4fUEKMFx8Zmo03LFqb4jVTK1upWrKsd.&mime_type=video_mp4&qs=0&rc=PDMzPDdnNjM4Ozs0NmZnNUBpM2lpdnE5cjk1bzMzZjczM0BiMjItMTNjXzMxNl8vL2FhYSNrM3NjMmRjZGpgLS1kMWNzcw%3D%3D&btag=e00090000&expire=1733369074&l=20241204212326B08B2E2447144023825C&ply_type=2&policy=2&signature=b3dbaa719711123b59a36d48c70a0de5&tk=tt_chain_token",
+    "downloadAddr": "",
+    "shareCover": [
+      ""
+    ],
+    "reflowCover": "",
+    "bitrate": 342865,
+    "encodedType": "normal",
+    "format": "mp4",
+    "videoQuality": "normal",
+    "encodeUserTag": "",
+    "codecType": "h264",
+    "definition": "480p",
+    "subtitleInfos": [],
+    "zoomCover": {
+      "240": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/o8NCIDbuIAPZfPAEuDKEvzgcHE1RQMF7lsBzuf~tplv-photomode-zoomcover:240:240.avif?lk3s=81f88b70&x-expires=1733518800&x-signature=QSr77jYHz8L6qVEsd6BCt9xMf18%3D&shp=81f88b70&shcp=-",
+      "480": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/o8NCIDbuIAPZfPAEuDKEvzgcHE1RQMF7lsBzuf~tplv-photomode-zoomcover:480:480.avif?lk3s=81f88b70&x-expires=1733518800&x-signature=1ftC7n6CrePsS7btTnWb5q0ZbJA%3D&shp=81f88b70&shcp=-",
+      "720": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/o8NCIDbuIAPZfPAEuDKEvzgcHE1RQMF7lsBzuf~tplv-photomode-zoomcover:720:720.avif?lk3s=81f88b70&x-expires=1733518800&x-signature=eNV6MlhGyAsPPptreZkNw74J%2FWQ%3D&shp=81f88b70&shcp=-",
+      "960": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/o8NCIDbuIAPZfPAEuDKEvzgcHE1RQMF7lsBzuf~tplv-photomode-zoomcover:960:960.avif?lk3s=81f88b70&x-expires=1733518800&x-signature=rarcpqAkK%2BWa5AIvmnyBNoKxFBw%3D&shp=81f88b70&shcp=-"
+    },
+    "volumeInfo": {
+      "Loudness": -10,
+      "Peak": 1
+    },
+    "bitrateInfo": [
+      {
+        "Bitrate": 342865,
+        "QualityType": 30,
+        "GearName": "normal_480_0",
+        "PlayAddr": {
+          "DataSize": "2891981",
+          "Width": 464,
+          "Height": 848,
+          "Uri": "v0f044gc0000clm2g6fog65nfsvf6fn0",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068-euttp/okIUrRBlKbsKgFzBuuhDNQQEPPDfAZfw7ECzEC/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&br=668&bt=334&cs=0&ds=2&ft=4fUEKMFx8Zmo03LFqb4jVTK1upWrKsd.&mime_type=video_mp4&qs=0&rc=PDMzPDdnNjM4Ozs0NmZnNUBpM2lpdnE5cjk1bzMzZjczM0BiMjItMTNjXzMxNl8vL2FhYSNrM3NjMmRjZGpgLS1kMWNzcw%3D%3D&btag=e00090000&expire=1733369074&l=20241204212326B08B2E2447144023825C&ply_type=2&policy=2&signature=b3dbaa719711123b59a36d48c70a0de5&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068-euttp/okIUrRBlKbsKgFzBuuhDNQQEPPDfAZfw7ECzEC/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&br=668&bt=334&cs=0&ds=2&ft=4fUEKMFx8Zmo03LFqb4jVTK1upWrKsd.&mime_type=video_mp4&qs=0&rc=PDMzPDdnNjM4Ozs0NmZnNUBpM2lpdnE5cjk1bzMzZjczM0BiMjItMTNjXzMxNl8vL2FhYSNrM3NjMmRjZGpgLS1kMWNzcw%3D%3D&btag=e00090000&expire=1733369074&l=20241204212326B08B2E2447144023825C&ply_type=2&policy=2&signature=b3dbaa719711123b59a36d48c70a0de5&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=d2dd2c23b1984865b0f36d44095050e9&is_play_url=1&item_id=7308261090939456801&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjU3ZjBkMTc3Yjc1ZTcyN2Y5OGFkOGJmODNiYmEzMGMy&tk=tt_chain_token&vidc=useast2a&video_id=v0f044gc0000clm2g6fog65nfsvf6fn0"
+          ],
+          "UrlKey": "v0f044gc0000clm2g6fog65nfsvf6fn0_h264_480p_342865",
+          "FileHash": "9721115b080d82c198e4e099875199be",
+          "FileCs": "c:0-55660-4afc"
+        },
+        "CodecType": "h264",
+        "MVMAF": "\"\""
+      }
+    ],
+    "VQScore": "74.27",
+    "claInfo": {
+      "hasOriginalAudio": true,
+      "enableAutoCaption": true,
+      "captionInfos": [],
+      "noCaptionReason": 3
+    }
+  },
+  "author": {
+    "id": "7275781159378764832",
+    "shortId": "",
+    "uniqueId": "mutzurwahrheitmem",
+    "nickname": "MutzurWahrheitMemes",
+    "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/52b92ce0e18cc0d227c2bac54ccbcfa8~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=15940&refresh_token=b8f853bb09394f98dcd9a41b1e174407&x-expires=1733518800&x-signature=0ymPxgFryaFQgazHY1eD%2FxTHZw0%3D&shp=a5d48078&shcp=81f88b70",
+    "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/52b92ce0e18cc0d227c2bac54ccbcfa8~c5_720x720.jpeg?lk3s=a5d48078&nonce=84501&refresh_token=5a2c1058fe580fd86c541817c0480970&x-expires=1733518800&x-signature=Ds1NrjLRe0mHwEwge5gi96dsIgg%3D&shp=a5d48078&shcp=81f88b70",
+    "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/52b92ce0e18cc0d227c2bac54ccbcfa8~c5_100x100.jpeg?lk3s=a5d48078&nonce=38464&refresh_token=214291a0153cf4d02f75989ed1deebfd&x-expires=1733518800&x-signature=U7pb1QFL7gkio7EhRVSwWjjvxDk%3D&shp=a5d48078&shcp=81f88b70",
+    "signature": "Memes aus der Politik und \"die da oben\" . Natürlich alles Satire!",
+    "createTime": 0,
+    "verified": false,
+    "secUid": "MS4wLjABAAAACGwqiUZABnwbsaRboNSsN_4YA5AKofgLC951H4IBmLFDca1_ROXclg4XB6_gJCQz",
+    "ftc": false,
+    "relation": 0,
+    "openFavorite": false,
+    "commentSetting": 0,
+    "duetSetting": 0,
+    "stitchSetting": 0,
+    "privateAccount": false,
+    "secret": false,
+    "isADVirtual": false,
+    "roomId": "",
+    "uniqueIdModifyTime": 0,
+    "ttSeller": false,
+    "downloadSetting": 3,
+    "recommendReason": "",
+    "nowInvitationCardUrl": "",
+    "nickNameModifyTime": 0,
+    "isEmbedBanned": false,
+    "canExpPlaylist": false,
+    "suggestAccountBind": false
+  },
+  "music": {
+    "id": "7160202306267383810",
+    "title": "It will be nice",
+    "playUrl": "https://sf16-music-sign.tiktokcdn.com/obj/tos-alisg-ve-2774/oQQthFm1MBDpB4DeYfTAYQggEFhJIkj8kcMCZn?lk3s=08d74b56&x-expires=1733369007&x-signature=jwkX0zcz1DBgFe5TYjZKw%2FMKiQg%3D",
+    "coverLarge": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-v-2774/owwpQY2rZ8FPDaUzAAnAACUNWOVDivrEBAziE~720x720.jpeg?lk3s=08d74b56&x-expires=1733369007&x-signature=NmsTtnpabcQSpqcWQfXdNRz1Lx8%3D",
+    "coverMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-v-2774/owwpQY2rZ8FPDaUzAAnAACUNWOVDivrEBAziE~200x200.jpeg?lk3s=08d74b56&x-expires=1733369007&x-signature=5ip1okG7R%2FJyFv%2FUDxYmHWCIboM%3D",
+    "coverThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-v-2774/owwpQY2rZ8FPDaUzAAnAACUNWOVDivrEBAziE~100x100.jpeg?lk3s=08d74b56&x-expires=1733369007&x-signature=GuFrBCLQFwgN7Qj6yrEgo9xx4N4%3D",
+    "authorName": "Balang_3go",
+    "original": false,
+    "duration": 109,
+    "album": "It Will Be Nice",
+    "scheduleSearchTime": 0,
+    "collected": false,
+    "preciseDuration": {
+      "preciseDuration": 109.5
+    }
+  },
+  "challenges": [
+    {
+      "id": "1592200802967557",
+      "title": "💙",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "1592200836393990",
+      "title": "🇩🇪",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "204862",
+      "title": "deutschland",
+      "desc": "🇩🇪  musical.ly Deutschland 🇩🇪\n\nGib uns ein LIKE und werde mit etwas Glück gefeatured!!! 💛\n\nFür Features den Hashtag #Deutschland nicht vergessen! ☝",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "23381984",
+      "title": "mutzurwahrheit",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "6391435",
+      "title": "afd",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "17127393",
+      "title": "politik",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "3802491",
+      "title": "sachsen",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "1687879413911553",
+      "title": "afdsachsen",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "13418748",
+      "title": "meinungsfreiheit",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "31552280",
+      "title": "widerstand",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "1657919607795717",
+      "title": "nurnochafd",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "880817",
+      "title": "freiheit",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "7054144649497149446",
+      "title": "volkswille",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "1667094790282241",
+      "title": "saexit",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "5939781",
+      "title": "heimat",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "7017702272331153413",
+      "title": "säxit",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "7092707531566350341",
+      "title": "säxitime",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    }
+  ],
+  "stats": {
+    "diggCount": 229,
+    "shareCount": 3,
+    "commentCount": 321,
+    "playCount": 3160,
+    "collectCount": "11"
+  },
+  "statsV2": {
+    "diggCount": "229",
+    "shareCount": "3",
+    "commentCount": "321",
+    "playCount": "3160",
+    "collectCount": "11",
+    "repostCount": "0"
+  },
+  "warnInfo": [],
+  "originalItem": false,
+  "officalItem": false,
+  "textExtra": [],
+  "secret": false,
+  "forFriend": false,
+  "digged": false,
+  "itemCommentStatus": 0,
+  "takeDown": 0,
+  "effectStickers": [],
+  "authorStats": {
+    "followerCount": 1082,
+    "followingCount": 15,
+    "heart": 5696,
+    "heartCount": 5696,
+    "videoCount": 54,
+    "diggCount": 30,
+    "friendCount": 0
+  },
+  "privateItem": false,
+  "duetEnabled": true,
+  "stitchEnabled": true,
+  "stickersOnItem": [],
+  "shareEnabled": true,
+  "comments": [],
+  "duetDisplay": 0,
+  "stitchDisplay": 0,
+  "indexEnabled": true,
+  "locationCreated": "DE",
+  "suggestedWords": [],
+  "contents": [],
+  "diversificationId": 10083,
+  "collected": false,
+  "channelTags": [],
+  "item_control": {
+    "can_repost": true
+  },
+  "IsAigc": false,
+  "backendSourceEventTracking": ""
+}

@@ -1,0 +1,173 @@
+{
+  "id": "6612223461026696454",
+  "desc": "",
+  "createTime": "1539528244",
+  "scheduleTime": 0,
+  "video": {
+    "id": "",
+    "height": 1024,
+    "width": 576,
+    "duration": 14,
+    "ratio": "720p",
+    "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/149c6605030b421daec1aac67d8745ab?lk3s=81f88b70&x-expires=1731589200&x-signature=ANvRmOg0SlZH1N%2B4rLV2xgnPof0%3D&shp=81f88b70&shcp=-",
+    "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/149c6605030b421daec1aac67d8745ab?lk3s=81f88b70&x-expires=1731589200&x-signature=ANvRmOg0SlZH1N%2B4rLV2xgnPof0%3D&shp=81f88b70&shcp=-",
+    "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/78957cf7ae8b47d6aadb299086bdebcf?lk3s=81f88b70&x-expires=1731589200&x-signature=s%2FC%2BCk6WKloLJeAucJlfv7Zyiko%3D&shp=81f88b70&shcp=-",
+    "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c800-us/097cd03416e348c5ab7fa9c65ab7696e/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&br=1648&bt=824&cs=0&ds=3&ft=4fUEKMFx8Zmo0GMz_b4jVBXCrpWrKsd.&mime_type=video_mp4&qs=0&rc=cnF8b2hsc2d3SkBwaHIxaDFybndmOTMzNTNnMzhoOjRkNDxmaUBpajxmZXl2NGVvaTMzOjczM0BjRl5Nc3FePmJKYSNvYF90aHFmOiNgYi5eMi8wNV4xYTUvMjUuYSNkNmc2c21gYC5fLS1gMTZzcw%3D%3D&btag=e00088000&expire=1731438977&l=202411121316021B1EA7D6CF3DB21DC4C7&ply_type=2&policy=2&signature=9f25ac1b57be8fe32e5cf7b714a92c2b&tk=tt_chain_token",
+    "downloadAddr": "",
+    "shareCover": [
+      ""
+    ],
+    "reflowCover": "",
+    "bitrate": 844628,
+    "encodedType": "normal",
+    "format": "mp4",
+    "videoQuality": "normal",
+    "encodeUserTag": "",
+    "codecType": "h264",
+    "definition": "720p",
+    "subtitleInfos": [],
+    "zoomCover": {
+      "240": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/149c6605030b421daec1aac67d8745ab~tplv-photomode-zoomcover:240:240.avif?lk3s=81f88b70&x-expires=1731589200&x-signature=cWYYmiTtMDpbQz2XE1a%2Flcx0wcQ%3D&shp=81f88b70&shcp=-",
+      "480": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/149c6605030b421daec1aac67d8745ab~tplv-photomode-zoomcover:480:480.avif?lk3s=81f88b70&x-expires=1731589200&x-signature=RhDKAGSegjR6FE0fNLTUgwcLqS0%3D&shp=81f88b70&shcp=-",
+      "720": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/149c6605030b421daec1aac67d8745ab~tplv-photomode-zoomcover:720:720.avif?lk3s=81f88b70&x-expires=1731589200&x-signature=xqI9eSV8cRlPMNROJYe215lhwJc%3D&shp=81f88b70&shcp=-",
+      "960": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/149c6605030b421daec1aac67d8745ab~tplv-photomode-zoomcover:960:960.avif?lk3s=81f88b70&x-expires=1731589200&x-signature=xZgd5c%2FVS1EZtCinYJm4wwG1tmU%3D&shp=81f88b70&shcp=-"
+    },
+    "volumeInfo": {},
+    "bitrateInfo": [
+      {
+        "Bitrate": 844628,
+        "QualityType": 10,
+        "GearName": "normal_720_0",
+        "PlayAddr": {
+          "DataSize": "1709070",
+          "Width": 576,
+          "Height": 1024,
+          "Uri": "v09044c70000bf1lcbc1psvv9bjc99gg",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c800-us/097cd03416e348c5ab7fa9c65ab7696e/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&br=1648&bt=824&cs=0&ds=3&ft=4fUEKMFx8Zmo0GMz_b4jVBXCrpWrKsd.&mime_type=video_mp4&qs=0&rc=cnF8b2hsc2d3SkBwaHIxaDFybndmOTMzNTNnMzhoOjRkNDxmaUBpajxmZXl2NGVvaTMzOjczM0BjRl5Nc3FePmJKYSNvYF90aHFmOiNgYi5eMi8wNV4xYTUvMjUuYSNkNmc2c21gYC5fLS1gMTZzcw%3D%3D&btag=e00088000&expire=1731438977&l=202411121316021B1EA7D6CF3DB21DC4C7&ply_type=2&policy=2&signature=9f25ac1b57be8fe32e5cf7b714a92c2b&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c800-us/097cd03416e348c5ab7fa9c65ab7696e/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&br=1648&bt=824&cs=0&ds=3&ft=4fUEKMFx8Zmo0GMz_b4jVBXCrpWrKsd.&mime_type=video_mp4&qs=0&rc=cnF8b2hsc2d3SkBwaHIxaDFybndmOTMzNTNnMzhoOjRkNDxmaUBpajxmZXl2NGVvaTMzOjczM0BjRl5Nc3FePmJKYSNvYF90aHFmOiNgYi5eMi8wNV4xYTUvMjUuYSNkNmc2c21gYC5fLS1gMTZzcw%3D%3D&btag=e00088000&expire=1731438977&l=202411121316021B1EA7D6CF3DB21DC4C7&ply_type=2&policy=2&signature=9f25ac1b57be8fe32e5cf7b714a92c2b&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=1f8c59218ad147ae85302d50a210e0c6&is_play_url=1&item_id=6612223461026696454&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmI5NTliOTY5ZWE4MWFiYTI1NDFjMzljODMyNTQwOWQx&tk=tt_chain_token&vidc=maliva&video_id=v09044c70000bf1lcbc1psvv9bjc99gg"
+          ],
+          "UrlKey": "v09044c70000bf1lcbc1psvv9bjc99gg_h264_720p_844628",
+          "FileHash": "fe31417a2cf934761ac05d5752a208ca",
+          "FileCs": ""
+        },
+        "CodecType": "h264",
+        "MVMAF": "\"\""
+      }
+    ],
+    "VQScore": "0",
+    "claInfo": {
+      "hasOriginalAudio": false,
+      "enableAutoCaption": true,
+      "captionInfos": [],
+      "noCaptionReason": 3
+    }
+  },
+  "author": {
+    "id": "205771783743094784",
+    "shortId": "",
+    "uniqueId": ".afd___",
+    "nickname": "AlternativeFürDeutschland🇩🇪",
+    "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/smgddb03c3350fe9558246dc694ca650220.jpeg?lk3s=a5d48078&nonce=10305&refresh_token=3f7dbde21d77cf505925e874edbe8fa3&x-expires=1731589200&x-signature=MYgfnAdt%2BjGEgdbBp4JGKZGWIxQ%3D&shp=a5d48078&shcp=81f88b70",
+    "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/smgddb03c3350fe9558246dc694ca650220.jpeg?lk3s=a5d48078&nonce=77470&refresh_token=6cb049a3b6821137f8af92e0f861d187&x-expires=1731589200&x-signature=I6gjfqJ5BwlaBpMg5vBaqvQY3Dc%3D&shp=a5d48078&shcp=81f88b70",
+    "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/smgddb03c3350fe9558246dc694ca650220.jpeg?lk3s=a5d48078&nonce=94107&refresh_token=715062fa44a56be267cc0d3dc3a4d899&x-expires=1731589200&x-signature=lTm1DnvIqUutHN%2BXZZi5BlEv%2BlM%3D&shp=a5d48078&shcp=81f88b70",
+    "signature": "》Stolzer Berliner 💙\n》18 Jahre jung🔥\n》Ha Ho He Hertha BSC 💙💙💪💪",
+    "createTime": 0,
+    "verified": false,
+    "secUid": "MS4wLjABAAAAyQo9HcU_YDo8DppIIIGbvF2JaD358MVyHqq30e0lSDACgX3ReMkc-eoNfNaddsrq",
+    "ftc": false,
+    "relation": 0,
+    "openFavorite": false,
+    "commentSetting": 0,
+    "duetSetting": 0,
+    "stitchSetting": 0,
+    "privateAccount": false,
+    "secret": false,
+    "isADVirtual": false,
+    "roomId": "",
+    "uniqueIdModifyTime": 0,
+    "ttSeller": false,
+    "downloadSetting": 3,
+    "recommendReason": "",
+    "nowInvitationCardUrl": "",
+    "nickNameModifyTime": 0,
+    "isEmbedBanned": false,
+    "canExpPlaylist": false,
+    "suggestAccountBind": false
+  },
+  "music": {
+    "id": "6572503308731157253",
+    "title": "Ich bin allein...",
+    "playUrl": "https://v77.tiktokcdn-eu.com/8b3cf3fc2fd1b0cac0e728a2e6a43987/67336332/video/tos/useast2a/tos-useast2a-v-27dcd7/be8fd5afb3da4d2fa260950e9076ff15/?a=1233&bti=ODszNWYuMDE6&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=124&bt=62&ft=.NpOcInz7Th~3EiOXq8Zmo&mime_type=audio_mpeg&qs=3&rc=Mzc6ZGU1NWk7aTpkZmYzN0Bpajc7OWU6ZmZqNzMzNzU8M0AwYjQtMWMvX2MxLzAxYmEvYSNtZmM1cjRfMGVgLS1kMTZzcw%3D%3D&vvpl=1&l=202411121316021B1EA7D6CF3DB21DC4C7&btag=e00088000",
+    "coverLarge": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/27b42919977373e2c96b82459b5c3a2f~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=49142&refresh_token=dbcb1f1319bc1c1dda951dc7de0ca850&x-expires=1731589200&x-signature=Z3VOQ%2Frx5cwhwhGi1Pk7iIucIMc%3D&shp=a5d48078&shcp=81f88b70",
+    "coverMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/27b42919977373e2c96b82459b5c3a2f~c5_720x720.jpeg?lk3s=a5d48078&nonce=87525&refresh_token=c2bdcaa54d1e5e8ffc701f79a398834b&x-expires=1731589200&x-signature=FguLc25i1duuSsz%2FhdaqBBa107I%3D&shp=a5d48078&shcp=81f88b70",
+    "coverThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/27b42919977373e2c96b82459b5c3a2f~c5_100x100.jpeg?lk3s=a5d48078&nonce=87380&refresh_token=a9d33c218091111312fb42c87d8a0bff&x-expires=1731589200&x-signature=u%2F%2F5xKAIoIafHyds5HQfhXlt608%3D&shp=a5d48078&shcp=81f88b70",
+    "authorName": "Zümra the simp ✨",
+    "original": false,
+    "duration": 15,
+    "album": "youtubersounds.de",
+    "scheduleSearchTime": 0,
+    "collected": false,
+    "preciseDuration": {
+      "preciseDuration": 15,
+      "preciseShootDuration": 15,
+      "preciseAuditionDuration": 15,
+      "preciseVideoDuration": 15
+    }
+  },
+  "challenges": [],
+  "stats": {
+    "diggCount": 11,
+    "shareCount": 0,
+    "commentCount": 0,
+    "playCount": 114,
+    "collectCount": "0"
+  },
+  "statsV2": {
+    "diggCount": "11",
+    "shareCount": "0",
+    "commentCount": "0",
+    "playCount": "114",
+    "collectCount": "0",
+    "repostCount": "0"
+  },
+  "warnInfo": [],
+  "originalItem": false,
+  "officalItem": false,
+  "textExtra": [],
+  "secret": false,
+  "forFriend": false,
+  "digged": false,
+  "itemCommentStatus": 0,
+  "takeDown": 0,
+  "effectStickers": [],
+  "privateItem": false,
+  "duetEnabled": true,
+  "stitchEnabled": true,
+  "stickersOnItem": [],
+  "shareEnabled": true,
+  "comments": [],
+  "duetDisplay": 0,
+  "stitchDisplay": 0,
+  "locationCreated": "DE",
+  "suggestedWords": [],
+  "contents": [],
+  "anchors": [
+    {
+      "id": "43945",
+      "type": 28,
+      "keyword": "Spiegelbild",
+      "icon": {},
+      "thumbnail": {}
+    }
+  ],
+  "collected": false,
+  "channelTags": [],
+  "item_control": {
+    "can_repost": true
+  },
+  "IsAigc": false,
+  "AIGCDescription": "",
+  "backendSourceEventTracking": ""
+}
